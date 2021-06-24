@@ -51,6 +51,11 @@
   <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
+
+### GitHub Stats ⚡
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?michalcohen97=anuraghazra&show_icons=true&theme=dracula)
+
+
 <!--
 **michalcohen97/michalcohen97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
